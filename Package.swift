@@ -6,7 +6,7 @@ let package = Package(
   name: "DGisMobileSDK",
   products: [
     .library(
-      name: "MapSDK",
+      name: "FullSDK",
       targets: ["DGis"])
   ],
   targets: [
