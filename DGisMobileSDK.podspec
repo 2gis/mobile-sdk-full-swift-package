@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name                = "DGisMobileSDK"
-  spec.version             = "2.0.0-beta.7"
+  spec.version             = "2.0.0-beta.8"
   spec.summary             = "DGisMobileSDK"
   spec.description         = <<-DESC
 A native iOS SDK for working with the 2GIS map.
@@ -10,7 +10,7 @@ A native iOS SDK for working with the 2GIS map.
   spec.license             = { :type => 'Proprietary', :text => 'https://law.2gis.ru/api-rules/ 2021 © DoubleGIS. All rights reserved.' }
   spec.authors             = { 'DoubleGIS LLC' => 'support@2gis.ru' }
   spec.platform            = :ios, "12.0"
-  spec.source              = { :http => 'https://artifactory.2gis.dev/sdk-ios-release/2.0.0-beta.7/Release/DGisFullSDK.zip', :sha1 => '3ca4d3632a7cab1abb8e3da08b5a2b1a02223aa2' }
+  spec.source              = { :http => 'https://artifactory.2gis.dev/sdk-ios-release/2.0.0-beta.8/Release/DGisFullSDK.zip', :sha1 => 'b2fc835bc9edc13b973623fc253c584bee5b0fe6' }
   spec.vendored_frameworks = 'DGis.xcframework'
 
 end
