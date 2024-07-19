@@ -13,8 +13,8 @@ let package = Package(
     .binaryTarget(
       name: "DGis",
       url:
-        "https://artifactory.2gis.dev/sdk-ios-release/10.5.0/Release/DGisFullSDK.zip",
-      checksum: "1087e6ce138791f7578467c0043a78160b4fdd75ff9c17bdecb2b2c9ade07dfd"
+        "https://artifactory.2gis.dev/sdk-ios-release/12.0.0-alpha.8/Release/DGisFullSDK.zip",
+      checksum: "5fa42eb54936c23ff2a74a386280d681f12fd4272ae5e5563952e0f177a8926e"
     )
   ]
 )
